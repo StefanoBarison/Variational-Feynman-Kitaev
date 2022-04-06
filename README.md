@@ -9,6 +9,7 @@ Every directory contains methods to construct the Feynman-Kitaev Hamiltonian for
 
 ## Python - Qiskit implementation
 
+We implemented the method in Python using the [Qiskit framework](https://qiskit.org)
 At the moment, the Qiskit version required is
 
 
@@ -25,7 +26,12 @@ At the moment, the Qiskit version required is
 
 ---
 
-## Julia -- Yao implementation
+## Julia - Yao.jl implementation
 
+We implented the method in Julia using the [Yao.jl](https://yaoquantum.org/) package.
 
+---
 
+## Julia - PastaQ.jl implementation
+
+We implented the method in Julia using the [PastaQ.jl](https://github.com/GTorlai/PastaQ.jl) package.
