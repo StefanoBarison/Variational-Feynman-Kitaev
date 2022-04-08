@@ -1,5 +1,5 @@
 # Variational-Feynman-Kitaev
-This repository contains the source code for the VFK algorithm introduced in _ArXiv:2204._
+This repository contains the source code for the VFK algorithm introduced in _ArXiv:2204.03454_
 
 
 The method has been implemented both in Python and Julia, using different libraries for quantum computing.
